@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cdjvjrfkdkgk
 - 👀 I’m interested in ...1
 - 🌱 I’m currently learning ..1.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on .1..
+- 📫 How to reach me ...1
+- 😄 Pronouns: ...1
+- ⚡ Fun fact: ...1
 
 <!---
 Cdjvjrfkdkgk/Cdjvjrfkdkgk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
